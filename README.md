@@ -1,1 +1,5 @@
-# cv
+# cv[bootstrap-4.0.0-dist.zip](ht![inframous](https://user-images.githubusercontent.com/93733487/140403896-4a2ecc73-4dea-47a4-96b4-6c65befd55dc.jpg)
+![my pic](https://user-images.githubusercontent.com/93733487/140403902-331181ec-9e41-4387-8689-26cad32c6837.jpg)
+![sky png](https://user-images.githubusercontent.com/93733487/140403903-18095407-6b62-44a7-a041-ea2e3c58c70d.jpg)
+tps://github.com/freddieose/cv/files/7477574/bootstrap-4.0.0-dist.zip)
+[favicon_io.zip](https://github.com/freddieose/cv/files/7477576/favicon_io.zip)
